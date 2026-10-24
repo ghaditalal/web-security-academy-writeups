@@ -1,9 +1,7 @@
 # Web Security Academy — SQL Injection & XSS Write-Up
 
 **Challenge:** "Discover Your First Vulnerability in 4 Days" (تحدي اكتشاف اول ثغرة في اربع ايام)
-**Author:** Ghadi Alzahrani
 **Tools:** PortSwigger Web Security Academy, Burp Suite Community Edition
-**Status:** 13/15 labs fully solved and documented; 2 labs documented as partial attempts (time-boxed / tooling-limited — see report for details)
 
 ## Overview
 
